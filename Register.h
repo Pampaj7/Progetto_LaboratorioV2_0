@@ -1,0 +1,14 @@
+//
+// Created by uffa on 04/09/2021.
+//
+
+#ifndef PROGETTO_LABORATORIOV2_0_REGISTER_H
+#define PROGETTO_LABORATORIOV2_0_REGISTER_H
+
+
+class Register {
+
+};
+
+
+#endif //PROGETTO_LABORATORIOV2_0_REGISTER_H

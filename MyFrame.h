@@ -1,0 +1,14 @@
+//
+// Created by uffa on 04/09/2021.
+//
+
+#ifndef PROGETTO_LABORATORIOV2_0_MYFRAME_H
+#define PROGETTO_LABORATORIOV2_0_MYFRAME_H
+
+
+class MyFrame {
+
+};
+
+
+#endif //PROGETTO_LABORATORIOV2_0_MYFRAME_H

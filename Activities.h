@@ -1,0 +1,14 @@
+//
+// Created by uffa on 04/09/2021.
+//
+
+#ifndef PROGETTO_LABORATORIOV2_0_ACTIVITIES_H
+#define PROGETTO_LABORATORIOV2_0_ACTIVITIES_H
+
+
+class Activities {
+
+};
+
+
+#endif //PROGETTO_LABORATORIOV2_0_ACTIVITIES_H
